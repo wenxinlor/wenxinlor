@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 - **Description:** Developed a solution to detect suicidal language on social media (Reddit) through classification and topic modeling.
 - **Tech Stack:** Python, Random Forest, Naive Bayes, Support Vector Machine (SVM), BERTopic, Latent Dirichlet Allocation (LDA), Non-negative Matrix Factorization (NMF)
 
-### 2. **Social Analytics for Mental Health**
-- **Description:** Explored social media interactions to derive insights into public mental health patterns.
-- **Tech Stack:** Python, Twitter API, Machine Learning (Neural Networks, Random Forest), Data Analysis
+### 2. Social Analytics: Fieldseas Analysis
+- **Description**: Conducted a comprehensive analysis of fieldseas to explore social trends and patterns using various data visualization and analytics techniques.
+- **Tech Stack**: Python, Pandas, Matplotlib, Seaborn, Gephi
 
 ### 3. **Data Mining & Fraud Detection**
 - **Description:** Worked on detecting fraudulent transactions using machine learning techniques.
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 - **Description:** Developed an immersive VR simulation experience, leveraging Unity's VR capabilities.
 - **Tech Stack:** Unity, C#, VR Development Tools
 
-### 8. **Computational Social Science**
-- **Description:** Applied data science techniques to explore social science problems through computational methods.
-- **Tech Stack:** Python, Data Science Tools, Machine Learning
+### 8. Computational Social Science: Sentiment Analysis on Legalizing Weed
+- **Description**: Performed sentiment analysis on social media discussions regarding the legalization of weed.
+- **Tech Stack**: Python, NLTK, Pandas, Scikit-learn, Matplotlib, NLP
 
