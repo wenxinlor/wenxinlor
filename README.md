@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Work Experiences
 <ul>
-  <li> <b>May 2024 - Present</b>:Business Systems Intern @ SAP</li>
+  <li> <b>May 2024 - Present</b>: Business Systems Intern @ SAP</li>
 </ul>
 
 ## 📊 GitHub Stats:
