@@ -29,6 +29,42 @@ Here are some ideas to get you started:
   <li> <b>May 2024 - Present</b>: Business Systems Intern @ SAP</li>
 </ul>
 
-## 📊 GitHub Stats:
-### You are visitor number: &nbsp; <img src="https://profile-counter.glitch.me/wenxinlor/count.svg?" width="300"/>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wenxinlor&theme=tokyonight&count-private=true&langs_count=10)](https://github.com/wenxinlor/github-readme-stats)
+## 🛠 Tech Stack
+- **Languages:** Python, SQL, C#, R
+- **Frameworks:** Flask, TensorFlow.js
+- **Databases:** MySQL, Firestore
+- **Tools:** AWS, Unity, Teachable Machine, TextMesh Pro, Jupyter Notebook, SAS Viya
+
+## 🚀 Projects
+### 1. **Text Mining for Suicide Detection**
+- **Description:** Developed a solution to detect suicidal language on social media (Reddit) through classification and topic modeling.
+- **Tech Stack:** Python, Random Forest, Naive Bayes, Support Vector Machine (SVM), BERTopic, Latent Dirichlet Allocation (LDA), Non-negative Matrix Factorization (NMF)
+
+### 2. **Social Analytics for Mental Health**
+- **Description:** Explored social media interactions to derive insights into public mental health patterns.
+- **Tech Stack:** Python, Twitter API, Machine Learning (Neural Networks, Random Forest), Data Analysis
+
+### 3. **Data Mining & Fraud Detection**
+- **Description:** Worked on detecting fraudulent transactions using machine learning techniques.
+- **Tech Stack:** Python, Neural Networks, Random Forest, Ensemble Modeling
+
+### 4. **Credit Scorecard Development for Fintech**
+- **Description:** Developed a credit scorecard solution for a fintech startup targeting young adults and millennials, addressing challenges like imbalanced data.
+- **Tech Stack:** Python, Logistic Regression, SMOTE, Data Exploration & Cleaning
+
+### 5. **Digital Technology for Environmental Sustainability**
+- **Description:** Built a web app that scans QR codes on zip ties to support sustainability efforts.
+- **Tech Stack:** Next.js, Flask, MySQL, React, Python, AWS
+
+### 6. **Pose Detection in Unity WebGL Game**
+- **Description:** Integrated TensorFlow.js and Teachable Machine for pose detection in a Unity WebGL game, focusing on detecting gestures like "Wave."
+- **Tech Stack:** Unity, TensorFlow.js, Teachable Machine, JavaScript
+
+### 7. **Unity VR Simulation**
+- **Description:** Developed an immersive VR simulation experience, leveraging Unity's VR capabilities.
+- **Tech Stack:** Unity, C#, VR Development Tools
+
+### 8. **Computational Social Science**
+- **Description:** Applied data science techniques to explore social science problems through computational methods.
+- **Tech Stack:** Python, Data Science Tools, Machine Learning
+
