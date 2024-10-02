@@ -38,33 +38,33 @@ Here are some ideas to get you started:
 ## 🚀 Projects
 ### 1. **Text Mining for Suicide Detection**
 - **Description:** Developed a solution to detect suicidal language on social media (Reddit) through classification and topic modeling.
-- **Tech Stack:** Python, Random Forest, Naive Bayes, Support Vector Machine (SVM), BERTopic, Latent Dirichlet Allocation (LDA), Non-negative Matrix Factorization (NMF)
+- **Skills:** Python, Random Forest, Naive Bayes, Support Vector Machine (SVM), BERTopic, Latent Dirichlet Allocation (LDA), Non-negative Matrix Factorization (NMF), NLP, Text Cleaning and preprocessing.
 
 ### 2. Social Analytics: Fieldseas Analysis
 - **Description**: Conducted a comprehensive analysis of fieldseas to explore social trends and patterns using various data visualization and analytics techniques.
-- **Tech Stack**: Python, Pandas, Matplotlib, Seaborn, Gephi
+- **Skills**: Python, Pandas, Matplotlib, Seaborn, Gephi
 
 ### 3. **Data Mining & Fraud Detection**
 - **Description:** Worked on detecting fraudulent transactions using machine learning techniques.
-- **Tech Stack:** Python, Neural Networks, Random Forest, Ensemble Modeling
+- **Skills:** Python, Neural Networks, Random Forest, Ensemble Modeling
 
 ### 4. **Credit Scorecard Development for Fintech**
 - **Description:** Developed a credit scorecard solution for a fintech startup targeting young adults and millennials, addressing challenges like imbalanced data.
-- **Tech Stack:** Python, Logistic Regression, SMOTE, Data Exploration & Cleaning
+- **Skills:** Python, Logistic Regression, SMOTE, Data Exploration & Cleaning
 
 ### 5. **Digital Technology for Environmental Sustainability**
 - **Description:** Built a web app that scans QR codes on zip ties to support sustainability efforts.
-- **Tech Stack:** Next.js, Flask, MySQL, React, Python, AWS
+- **Skills:** Next.js, Flask, MySQL, React, Python, AWS
 
 ### 6. **Pose Detection in Unity WebGL Game**
 - **Description:** Integrated TensorFlow.js and Teachable Machine for pose detection in a Unity WebGL game, focusing on detecting gestures like "Wave."
-- **Tech Stack:** Unity, TensorFlow.js, Teachable Machine, JavaScript
+- **Skills:** Unity, TensorFlow.js, Teachable Machine, JavaScript
 
 ### 7. **Unity VR Simulation**
 - **Description:** Developed an immersive VR simulation experience, leveraging Unity's VR capabilities.
-- **Tech Stack:** Unity, C#, VR Development Tools
+- **Skills:** Unity, C#, VR Development Tools
 
 ### 8. Computational Social Science: Sentiment Analysis on Legalizing Weed
 - **Description**: Performed sentiment analysis on social media discussions regarding the legalization of weed.
-- **Tech Stack**: Python, NLTK, Pandas, Scikit-learn, Matplotlib, NLP
+- **Skills**: Python, NLTK, Pandas, Scikit-learn, Matplotlib, NLP
 
